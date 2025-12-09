@@ -1,1 +1,11 @@
 *.m linguist-language=MATLAB
+
+data/* linguist-vendored
+data/ linguist-vendored
+
+*.mat linguist-vendored
+*.asv linguist-vendored
+
+*.csv linguist-vendored
+*.png linguist-vendored
+*.txt linguist-vendored
